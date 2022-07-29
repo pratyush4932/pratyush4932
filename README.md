@@ -4,7 +4,7 @@
   <a href="https://github.com/"><img src="https://i.pinimg.com/736x/64/7c/c5/647cc547125a0125c77a53d8011e4332.jpg" width="512px"></a>
 </p>
 
-🔭 I’m currently working on WhatsApp Bot's<br>👯 I’m looking to collaborate on -<br>🤝 I’m looking for help with -<br>🌱 I’m currently learning Java.<br>💬 Ask me about on WhatsApp.
+🔭 I’m currently working on WhatsApp Bot's<br>👯 I’m looking to collaborate on some interesting stuffs<br>🤝 I’m looking for help with -<br>🌱 I’m currently learning Java.<br>💬 Ask me about on WhatsApp.
 
 
 ## 🌐 Socials:
